@@ -1,0 +1,272 @@
+.header-topbar-area-top {
+    display: none;
+}
+
+.header-area {
+    background: transparent;
+}
+
+.main-menu li.active>a {
+    color: #00c3e6 !important
+}
+
+.main-menu>li>a {
+    /* color: #fff !important; */
+    color: #000 !important
+}
+
+.header-logo {
+    padding: 0 0 !important;
+    width: 100%;
+    background: #001e63;
+}
+
+.header-middle-phone {
+    background: #00c3e6 none repeat scroll 0 0 !important;
+    padding: 10px !important;
+}
+
+.header-middle-phone span {
+    color: #fff !important;
+}
+
+.header-social-icon a {
+    background: #00c3e6 none repeat scroll 0 0 !important;
+}
+
+.title-head h4 {
+    color: #001e63 !important;
+}
+
+.free-offer-text p {
+    color: #001e63 !important;
+}
+
+.sticky {
+    border-bottom: 1px solid #00c3e6 !important;
+    background: rgb(0, 30, 99) none repeat scroll 0 0 !important;
+}
+
+.main-menu-wrapper {
+    border-top: 1px solid #00c3e6 !important;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    color: #001e63 !important;
+    ;
+}
+
+.discount-hover-btn a {
+    color: #00c3e6 !important;
+}
+
+a.btn-def {
+    border: 1px solid #001e63 !important;
+}
+
+.product-tab-cat li.active a {
+    color: #00c3e6 !important;
+}
+
+.product-tab-cat li a {
+    color: #001e63 !important;
+}
+
+.label-sale {
+    background: #0bc6e7 none repeat scroll 0 0 !important;
+}
+
+.product-bottom-price>span {
+    font-size: 15px;
+    color: #001e63 !important;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+.deft-underline2::before {
+    background: #00c0e4 none repeat scroll 0 0 !important;
+}
+
+.main-footer-area {
+    background: #001e63 none repeat scroll 0 0 !important;
+}
+
+.footer-bottom-area {
+    background: #00b7dc none repeat scroll 0 0 !important;
+}
+
+.footer-bottom-text a {
+    color: #001e63 !important;
+}
+
+.to-top.posr>a {
+    color: #00b7dc !important;
+    border: 1px solid #00b7dc !important;
+    background: #001e63 none repeat scroll 0 0 !important;
+}
+
+.blog-small-text>p {
+    color: #00c0e4 !important;
+}
+
+.def-owl.owl-theme .owl-controls .owl-buttons div {
+    color: #15c5e6 !important;
+    border: 2px solid #001e63 !important;
+}
+
+.footer-readmore a {
+    color: #00b7dc !important;
+}
+
+.def-funderline:before {
+    background: #00b7dc !important;
+}
+
+a.btn-def-black {
+    color: #fff !important;
+    border: 1px solid #001e63 !important;
+    background: #00c3e6 none repeat scroll 0 0 !important;
+}
+
+.title-main {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.title-main img {
+    margin-bottom: 30px;
+}
+
+.title-main p {
+    font-size: 16px;
+    text-align: justify;
+    line-height: 30px;
+}
+
+.slider-image img {
+    height: 700px !important;
+}
+
+#client-testimonial-carousel {
+    min-height: 200px;
+}
+
+.logo_footer {
+    width: 100%;
+    min-width: 220px;
+    padding-right: 30px;
+    position: relative;
+    top: -10px;
+    left: -35px;
+}
+
+.testi_head {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.brand-area.hp1-brand-area {
+    padding-top: 20px;
+    padding-bottom: 80px;
+}
+
+.header-whishlist {
+    /* float: left !important; */
+    margin-top: 0 !important;
+}
+
+.ps-color a {
+    width: 26px;
+    height: 26px;
+    display: inline-block;
+}
+
+.black {
+    background: #000000;
+}
+
+.brown {
+    background: #635c63;
+}
+
+.red {
+    background: #a30014;
+}
+
+.darkgrey {
+    background: #2f3c4d;
+}
+
+.litebrown {
+    background: #c3c2c0;
+}
+
+.white {
+    background: #f2f2f2;
+}
+
+.liteblue {
+    background: #859cbc;
+}
+
+.cream {
+    background: #f7d2c2;
+}
+
+.yellow {
+    background: #c8c258;
+}
+
+.main-cart-area {
+    padding-top: 0 !important;
+}
+
+.header-middle {
+    padding: 20px 0 !important;
+    background: #001e63;
+}
+
+.slider-container {
+    position: relative;
+    top: -71px;
+}
+
+.header-logo {
+    z-index: 999999;
+    margin-top: -60px;
+    position: relative;
+}
+
+#sticky-header {
+    z-index: 999;
+}
+
+.main-menu-wrapper {
+    border-bottom: none !important;
+}
+
+.sticky .header-logo {
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 60px;
+    background: transparent;
+}
+
+nav ul.main-menu {
+    z-index: 999;
+}
+
+.sticky .main-menu>li>a {
+    color: #fff !important;
+}
+
+.sticky .main-menu li.active>a {
+    color: #01c3e6 !important;
+}
